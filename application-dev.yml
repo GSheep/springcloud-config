@@ -1,5 +1,3 @@
-server:
-    port: 8081
-    
+   
 config:
     info: master branch,dev.yml,version=1
