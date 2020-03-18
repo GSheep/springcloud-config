@@ -1,2 +1,5 @@
 server:
     port: 8082
+    
+config:
+    info: master branch,test.yml,version=1
